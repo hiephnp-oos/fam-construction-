@@ -1,3 +1,7 @@
+---
+name: construction-contract-analysis
+description: Review construction contract clauses for scope, payment, variations, delay, defects, acceptance, notice, and risk. Use when the user asks what a contract requires, what a clause means operationally, or what evidence/actions are needed.
+---
 # Contract analysis
 ## Trigger
 Contract scope, payment, variation, delay, defects, acceptance, and risk review.

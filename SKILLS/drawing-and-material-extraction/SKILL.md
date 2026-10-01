@@ -1,3 +1,7 @@
+---
+name: drawing-material-extraction
+description: Read construction drawings, schedules, and PDFs to extract material codes, dimensions, specifications, finishes, colors, and application locations. Use when the user asks to read a drawing or produce a material/specification schedule from source documents.
+---
 # Drawing and material extraction
 ## Trigger
 Drawing/PDF reading; material codes, dimensions, specifications, finishes, colors, and application locations.
