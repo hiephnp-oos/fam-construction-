@@ -15,3 +15,7 @@ AI detects meaningful corrections or repeatable patterns, creates an anonymized 
 
 ## Validation
 Lightweight acceptance checks and routing checks are maintained in [VALIDATION](VALIDATION/README.md). They are expected behaviors, not claims that tests have already run.
+
+
+## Project documents and external tools
+Users provide project PDFs/files directly in the conversation; AI uses those as primary evidence. FAM workflows do not depend on SharePoint or Google Drive. For current external facts (such as market prices, product data or regulations), AI may use available web search/extraction tools selectively, prioritizing authoritative sources and recording evidence. Tool availability depends on the active workspace; repository instructions do not install or connect tools.

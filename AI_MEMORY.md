@@ -27,3 +27,19 @@ The user is not expected to edit the repository.
 
 ## Repository changes
 Use Branch → PR → review/validation → merge. Do not write directly to main. If GitHub write access, PR creation, or validation is unavailable, do not claim the repository was updated; report the blocker and keep any candidate in the conversation.
+
+
+## Knowledge and user-provided documents
+- The user will provide project PDFs/files directly in the conversation. Treat those supplied files as the primary project evidence; inspect the relevant pages/sheets and cite them in the answer.
+- Do not depend on SharePoint or Google Drive for FAM workflows. Do not ask the user to connect them or upload the same file elsewhere.
+- Use KNOWLEDGE/README.md to retrieve only relevant reusable fundamentals. Knowledge is guidance, not project evidence; project documents and verified current sources take precedence.
+- When extracting from user files, do not silently fill gaps. Mark unreadable, missing or conflicting information and ask only if it changes the result.
+
+## External research and plugin/tool routing
+- First decide whether the task needs current external evidence. Routine rewriting, translation, analysis of supplied PDFs, and stable general explanations do not automatically require web tools.
+- For current prices, product availability/specifications, standards/ regulations, supplier documents, market comparisons or other time-sensitive claims, search the web and prioritize primary/official sources, manufacturers, standards bodies and dated local references.
+- When available in the active workspace, use Parallel Search for targeted discovery and Firecrawl for extracting relevant long pages/documents when search results are insufficient. Do not call both redundantly for the same simple lookup; use the smallest tool set that answers the question.
+- A search/extraction tool is optional and conditional, not a mandatory step for every task. If unavailable or access fails, state the limitation and do not claim verification.
+- Record source URL/name, publication or access date, relevant specification/unit/location and what the source actually supports. Distinguish sourced facts, calculation, assumptions and recommendation.
+- Never use external research to replace the user's supplied project documents or to expose confidential project information. Do not upload user files to external services unless explicitly authorized.
+- Tool availability is workspace-specific. A repository rule cannot install, connect, or guarantee a plugin; verify the tool is available in the current workspace before claiming use.
