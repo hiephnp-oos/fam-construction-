@@ -10,3 +10,7 @@ Read only the skill(s) needed for the task. Use the skill description as a disco
 | Contract clauses, obligations, variation, payment, delay, defects | [Contract analysis](contract-analysis/SKILL.md) |
 
 If a task spans domains, load only the intersecting skills. Do not load construction skills for routine email rewriting, translation, or message replies unless technical reasoning materially changes the content. If no skill matches, use general reasoning and state relevant uncertainty; do not force-fit a skill.
+
+
+## Knowledge routing
+After loading the relevant skill, consult only the matching reference in [KNOWLEDGE](../KNOWLEDGE/README.md) when stable domain fundamentals add value. Knowledge does not replace project PDFs, tender instructions, current supplier data or verified standards. Do not load the whole Knowledge folder by default.
