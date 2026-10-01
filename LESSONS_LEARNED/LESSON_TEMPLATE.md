@@ -1,13 +1,16 @@
 # Lesson: [short title]
 - Status: Candidate
 - Date observed:
-- Related skill:
+- Related skill/knowledge:
 - Source/context (anonymized):
 - Observed failure or successful pattern:
 - Evidence:
 - Root cause:
 - Reusable rule:
-- Proposed change:
-- Validation test:
+- Proposed operational file change:
+- Validation test and expected result:
 - Duplicate/conflict check:
-- Promotion decision and rationale:
+- Decision: Candidate / Promoted / Rejected / Superseded
+- Decision rationale:
+- Applied change (path/commit or PR):
+- Replacement lesson (if superseded):

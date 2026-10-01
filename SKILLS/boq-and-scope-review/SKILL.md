@@ -1,3 +1,7 @@
+---
+name: boq-scope-review
+description: Compare BOQs against drawings, specifications, scope documents, revisions, and quantity takeoffs. Use to identify missing, duplicated, mismatched, or unclear items and prepare clarification registers.
+---
 # BOQ and scope review
 ## Trigger
 Compare BOQ with drawings, specifications, scope, revisions, or takeoffs.

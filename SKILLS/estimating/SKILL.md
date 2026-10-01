@@ -1,6 +1,10 @@
+---
+name: construction-estimating
+description: Build or review construction unit rates, cost breakdowns, takeoffs, and pricing assumptions. Use when the task asks how much work costs, how to calculate a rate, or to compare material, labor, equipment, and installation costs.
+---
 # Construction estimating
 ## Trigger
-Unit-rate estimates, cost build-ups, and construction pricing.
+Unit-rate estimates, cost build-ups, quantity-based pricing, and construction pricing review.
 ## Method
 1. Confirm description, unit, quantity, location, date/basis, scope, and quality.
 2. Define the measurable unit and calculate quantity per unit.
