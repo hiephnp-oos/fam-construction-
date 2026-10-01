@@ -43,3 +43,12 @@ Use Branch → PR → review/validation → merge. Do not write directly to main
 - Record source URL/name, publication or access date, relevant specification/unit/location and what the source actually supports. Distinguish sourced facts, calculation, assumptions and recommendation.
 - Never use external research to replace the user's supplied project documents or to expose confidential project information. Do not upload user files to external services unless explicitly authorized.
 - Tool availability is workspace-specific. A repository rule cannot install, connect, or guarantee a plugin; verify the tool is available in the current workspace before claiming use.
+
+
+## Drawing takeoff controls
+- For drawing-based quantities, load the drawing extraction skill and consult KNOWLEDGE/takeoff-measurement-and-ai-limitations.md; add BOQ review for scope reconciliation and estimating for pricing.
+- Require quantity provenance: source file, drawing/revision, page/sheet, region, unit, scale/calibration, method/tool, formula/deductions, result and check status.
+- Prefer explicit dimensions or deterministic measurement tools. Do not treat AI visual estimates as verified quantities.
+- Escalate complex/irregular/obscured geometry, poor scans, inconsistent scales and unclear boundaries; separate uncertain quantities and request human confirmation where material.
+- OpenTakeoff and ProTakeoff are research/evaluation candidates only. No integration or runtime availability is implied. Do not claim use unless executed in the current task.
+- A takeoff result does not establish BOQ/scope completeness. State coverage, unmapped items and unresolved interfaces.
