@@ -1,0 +1,13 @@
+# Lesson: [short title]
+- Status: Candidate
+- Date observed:
+- Related skill:
+- Source/context (anonymized):
+- Observed failure or successful pattern:
+- Evidence:
+- Root cause:
+- Reusable rule:
+- Proposed change:
+- Validation test:
+- Duplicate/conflict check:
+- Promotion decision and rationale:
